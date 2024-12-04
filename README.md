@@ -27,3 +27,4 @@ Then I read a portion of chapter 22 from the book "Introduction to Algorithms, 3
 I used JS playground to get the value of bottomUp(10) real quick. Here's a screenshot
 
 ![Screenshot (161)](https://github.com/user-attachments/assets/0f4c9b3c-0126-44fc-a9d1-77a661fe0c7f)
+"I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
