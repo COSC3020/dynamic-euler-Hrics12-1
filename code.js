@@ -22,3 +22,7 @@ function bottomUp(n) {
 
     return e;
 }
+
+
+//const result = bottomUp(10);
+//console.log(result);
