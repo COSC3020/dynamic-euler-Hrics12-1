@@ -22,3 +22,4 @@ The factorial function has a time complexity of $\Theta(n)$ because it just does
 This means the worst time is $\Theta(n^2)$ because of the $e(n)$ function calls the factorial function.
 
 https://www.geeksforgeeks.org/factorial-of-a-number-using-javascript/
+Then I read a portion of chapter 22 from the book "Introduction to Algorithms, 3rd Edition (Mit Press)"
