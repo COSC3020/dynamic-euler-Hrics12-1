@@ -23,3 +23,7 @@ This means the worst time is $\Theta(n^2)$ because of the $e(n)$ function calls 
 
 https://www.geeksforgeeks.org/factorial-of-a-number-using-javascript/
 Then I read a portion of chapter 22 from the book "Introduction to Algorithms, 3rd Edition (Mit Press)"
+
+I used JS playground to get the value of bottomUp(10) real quick. Here's a screenshot
+
+![Screenshot (161)](https://github.com/user-attachments/assets/0f4c9b3c-0126-44fc-a9d1-77a661fe0c7f)
